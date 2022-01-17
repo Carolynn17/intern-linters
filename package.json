@@ -1,0 +1,23 @@
+{
+  "name": "intern-linters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carolynn17/intern-linters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carolynn17/intern-linters/issues"
+  },
+  "homepage": "https://github.com/Carolynn17/intern-linters#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
+}
